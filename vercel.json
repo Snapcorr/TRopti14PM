@@ -1,1 +1,4 @@
-<!-- vercel.json placeholder -->
+{
+  "cleanUrls": true,
+  "trailingSlash": false
+}
