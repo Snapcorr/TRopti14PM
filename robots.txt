@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://seo14pm.vercel.app/sitemap.xml
